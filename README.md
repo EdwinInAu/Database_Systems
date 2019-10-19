@@ -1,1 +1,4 @@
 # Database-Systems
+TERM 2
+OPEN SOURCE PROJECT 
+ABOUT SQL
